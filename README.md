@@ -1,6 +1,6 @@
 # travis-c-demo
 
-[![Build Status](https://travis-ci.org/HenryFBP/travis-c-demo.svg?branch=main)](https://travis-ci.org/HenryFBP/travis-c-demo)
+[![Build Status](https://travis-ci.com/HenryFBP/travis-c-demo.svg?branch=main)](https://travis-ci.com/HenryFBP/travis-c-demo)
 
 ## Compiling/running
 
@@ -8,4 +8,4 @@
 
 ## Travis
 
-See <https://travis-ci.org/github/HenryFBP/travis-c-demo/builds> for Travis builds.
+See <https://travis-ci.com/github/HenryFBP/travis-c-demo/builds> for Travis builds.
