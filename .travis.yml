@@ -2,6 +2,10 @@ language: c
 os: linux
 dist: xenial
 compiler: gcc
-script:
+before_script:
   - make
-  - echo "Woohoo!"
+  - echo "Woohoo! Compiled!"
+
+script:
+  - make run
+  - echo "Woohoo! Program ran!"
