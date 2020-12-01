@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-I.
 
-all: compile run clean
+all: compile
 
 clean:
 	rm -f *.o program
